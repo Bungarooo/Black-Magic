@@ -1,2 +1,2 @@
 # Black-Magic
-A short game developed at Winter Code Day 2020
+A short game developed at Winter Code Day 2019
